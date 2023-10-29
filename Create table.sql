@@ -17,4 +17,8 @@ blank_id INT NOT NULL,
 BLANK_NAME VARCHAR (45),
 PRICE DECIMAL (5,2),
 PRIMARY KEY (blank_id));
+INSERT INTO dlank values
+(1,'N'2.59),
+(1,'N'2.59);
+
 
